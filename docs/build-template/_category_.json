@@ -1,0 +1,8 @@
+{
+    "label": "Building Template",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description": "How to build template out of this repo for Docs."
+    }
+}
