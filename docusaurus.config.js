@@ -18,8 +18,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Sumanth', // Usually your GitHub org/user name.
+  organizationName: 'insumanth', // Usually your GitHub org/user name.
   projectName: 'docs_template', // Usually your repo name.
+  deploymentBranch: 'main'
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
